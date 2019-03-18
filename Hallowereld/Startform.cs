@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Hallowereld
 {
-    public partial class Form1 : Form
+    public partial class Startform : Form
     {
-        public Form1()
+        public Startform()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Hallowereld
 {
-    partial class Form1
+    partial class Startform
     {
         /// <summary>
         /// Required designer variable.
